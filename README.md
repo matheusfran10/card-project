@@ -1,31 +1,39 @@
-<<<<<<< HEAD
-# CardProject
+# 💳 Layout Cards Base - Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
+Projeto de interface web responsiva desenvolvido com **Angular**, focado em exibir **informações financeiras** de forma clara e organizada. Ideal para sistemas bancários, carteiras digitais ou áreas logadas de clientes.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## ✨ Funcionalidades
 
-## Code scaffolding
+- 🏦 Cartão de **saldos disponíveis**, com detalhamento de contas e investimentos  
+- 💰 Cartão de **crédito** com limites, utilização e disponibilidade  
+- 💳 Cartão de **débito**, com verificação da existência do cartão  
+- 👤 Cartão com **informações do cliente**  
+- ⚙️ Componentização completa com Angular  
+- 🎨 Layout moderno e responsivo com CSS e Angular  
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🧰 Tecnologias Utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Angular 17
+- TypeScript  
+- HTML5  
+- CSS3  
+- Estrutura modular com Components  
+- Boas práticas de organização com diretórios separados por contexto  
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🚀 Como Executar
 
-## Running end-to-end tests
+Clone o repositório:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+git clone https://github.com/matheusfran10/Layout-cards-angular.git
 
-## Further help
+cd Layout-cards-angular
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-=======
-# card-project
->>>>>>> 538b6f4e61eedaa2d0d1d5621c9ed2ea075f75d6
+npm install
+
+ng serve
