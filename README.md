@@ -1,4 +1,4 @@
-# 💳 Layout Cards Base - Angular
+# 💳 Cards Project - Angular
 
 Projeto de interface web responsiva desenvolvido com **Angular**, focado em exibir **informações financeiras** de forma clara e organizada. Ideal para sistemas bancários, carteiras digitais ou áreas logadas de clientes.
 
@@ -30,7 +30,7 @@ Projeto de interface web responsiva desenvolvido com **Angular**, focado em exib
 
 Clone o repositório:
 
-git clone https://github.com/matheusfran10/Layout-cards-angular.git
+git clone https://github.com/matheusfran10/card-project.git
 
 cd Layout-cards-angular
 
